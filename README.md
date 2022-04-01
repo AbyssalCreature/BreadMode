@@ -1,5 +1,5 @@
 # BreadMode
-Consume some Bread
+Do you like Bread? No? Too bad, because now you have to beat Another Metroid Bread Remake, a mod where (almost) everything kills you in one hit! And more stuff. 
 
 **NEW STUFF**
 
